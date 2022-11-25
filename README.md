@@ -1,5 +1,5 @@
 # Programa_estoque
-Programa elaborado como exercício do curso de Engenharia de Dados ministrado ADA - Santander Coders
+Programa elaborado como exercício do curso de Engenharia de Dados ministrado pela ADA - Santander Coders
 
 Alunos: Arthur Sturza, Wagner Andrade e Wesley Santos
 
