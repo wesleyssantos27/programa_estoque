@@ -2,9 +2,9 @@
 Programa elaborado como exercício do curso de Engenharia de Dados ministrado ADA - Santander Coders
 
 Alunos:
-        Arthur Sturza
-        Wagner Andrade
-        Wesley Santos
+                Arthur Sturza
+                Wagner Andrade
+                Wesley Santos
 
 
 
