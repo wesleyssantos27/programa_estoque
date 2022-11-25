@@ -3,9 +3,7 @@ Programa elaborado como exercício do curso de Engenharia de Dados ministrado AD
 
 Alunos:
         Arthur Sturza
-        
         Wagner Andrade
-        
         Wesley Santos
 
 
