@@ -32,4 +32,4 @@ Programa desenvolvido com o objetivo de exercitar e obter conhecimento na lingua
 Foram utilizadas classes, funções, dicionários, listas, strings, list comprehension, manipulação de arquivos e utilização de bibliotecas.
 
 
-#### Nota: adicionada a versão dois reescrita após comentários e observações do professor Franklin (https://github.com/franklin390).
+#### Nota: adicionada a versão 2 reescrita após comentários e observações do professor Franklin (https://github.com/franklin390).
