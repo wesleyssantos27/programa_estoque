@@ -27,5 +27,9 @@ Cadastro de estoque - Requisitos:
 
 
 
+
 Programa desenvolvido com o objetivo de exercitar e obter conhecimento na linguagem Python.
 Foram utilizadas classes, funções, dicionários, listas, strings, list comprehension, manipulação de arquivos e utilização de bibliotecas.
+
+
+#### Nota: adicionada a versão dois reescrita após comentários e observações do professor Franklin (https://github.com/franklin390).
